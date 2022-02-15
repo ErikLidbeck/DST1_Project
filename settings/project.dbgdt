@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1395</ColumnWidth1>
+        <ColumnWidth2>372</ColumnWidth2>
+        <ColumnWidth3>93</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory><item>overFF</item></QWatchHistory><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window><Window><Factory>StaticWatch</Factory></Window></Windows></PreferedWindows></QuickWatch><WATCH_1><expressions><item>input</item><item>menulvl</item><item>button</item><item>lastbutton</item><item>numOfDigits</item><item>i</item><item>number</item><item>intArray[i]</item><item>x</item><item>digit</item><item>logOn</item><item>speedyMode</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>StaticWatch</Factory></Window></Windows></PreferedWindows></WATCH_1><TerminalIO><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO><StaticWatch><expressions><item>temp</item><item>lightA6</item><item>lightA5</item><item>button</item><item>number</item><item>upperLimit</item><item>lowerLimit</item><item>digit</item><item>theLog[i][j]</item><item>logOn</item><item>speedyMode</item><item>i</item><item>j</item><item>min[0]</item><item>avg[0]</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>147</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></StaticWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23180-23265</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-22658-23275</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-1161-23269</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>project</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\arm\doc\infocenter\index.ENU.html</Filename></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>907</SelStart><SelEnd>907</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\display_keypad.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>262</SelStart><SelEnd>262</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\easyWriting.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>751</SelStart><SelEnd>751</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\temp.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>420</SelStart><SelEnd>420</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\light.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>357</SelStart><SelEnd>357</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\servo.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>289</SelStart><SelEnd>289</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\initialize.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1710</SelStart><SelEnd>1710</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\at91sam3x8.h</Filename><XPos>0</XPos><YPos>7002</YPos><SelStart>556313</SelStart><SelEnd>556313</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\system_sam3x.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>2804</SelStart><SelEnd>2804</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UI.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1867</SelStart><SelEnd>1867</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04992e20><key>iaridepm.enu1</key></Toolbar-04992e20></Sizes></Row0><Row1><Sizes><Toolbar-46292c08><key>debuggergui.enu1</key></Toolbar-46292c08></Sizes></Row1></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>850</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>179051</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>762757</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>200</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>179051</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>179051</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
